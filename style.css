@@ -10,6 +10,11 @@ body {
   align-items: center;
 }
 
+.attribution {
+  font-size: 0.8rem;
+  font-style: italic;
+}
+
 section {
   max-width: 40rem;
 }
